@@ -7,11 +7,11 @@
     "text": "About\nI am an aspiring data scientist and ecologist. It all started when I joined the Ecosystem Dynamics and Forecasting Lab while getting my B.S. from Virginia Tech. I quickly realized that I really like writing scripts to analyze and visualize environmental datasets. Wanting to get more experience working with remote sensing and large spatial datasets, I joined the Global Earth Observation and Dynamics of Ecosystem Lab at Northern Arizona University and completed an M.S. in Informatics. Now I am looking for a new opportunity to put my data visualization and environmental modeling skills to use."
   },
   {
-    "objectID": "portfolio/Weather.html",
-    "href": "portfolio/Weather.html",
+    "objectID": "portfolio/weather.html",
+    "href": "portfolio/weather.html",
     "title": "Statistical Downscaling of Meteorological Forecasts",
     "section": "",
-    "text": "In this project, I temporally and spatially downscaled forecasts for five different meteorological metrics for use in a reservoir hydrodynamics forecasting project. I temporally downscaled the 21 climate model ensemble member forecasts from 6-hr to hourly resolution and spatially downscaled to our specific site, the Falling Creek Reservoir in Vinton, VA. Standard error in the statistical model fits was recorded and used to generate ensemble members with random noise proportional to model error. This allowed meteorological uncertainty to be propagated through further steps in the hydrodynamic forecasting project.\nThis work contributed to the publication, A Near-Term Iterative Forecasting System Successfully Predicts Reservoir Hydrodynamics and Partitions Uncertainty in Real Time.\n\nMy Written Report link\nCode Repository link\n\n\n\n\n\n\n\n\n\nObserved and 1-day Downscaled Forecasts over a 14-day fall period"
+    "text": "In this project, I temporally and spatially downscaled forecasts for five different meteorological metrics for use in a reservoir hydrodynamics forecasting project. I temporally downscaled the 21 climate model ensemble member forecasts from 6-hr to hourly resolution and spatially downscaled to our specific site, the Falling Creek Reservoir in Vinton, VA. Standard error in the statistical model fits was recorded and used to generate ensemble members with random noise proportional to model error. This allowed meteorological uncertainty to be propagated through further steps in the hydrodynamic forecasting project.\nThis work contributed to the publication, A Near-Term Iterative Forecasting System Successfully Predicts Reservoir Hydrodynamics and Partitions Uncertainty in Real Time.\n\nWritten Report link\nCode Repository link\n\n\n\n\n\n\n\n\n\nObserved and 1-day Downscaled Forecasts over a 14-day fall period"
   },
   {
     "objectID": "portfolio/HarvardForest.html",
@@ -25,6 +25,20 @@
     "href": "pages/education.html",
     "title": "Education",
     "section": "",
-    "text": "M.S. in Informatics, Computing, and Cyber Systems\n\nNorthern Arizona University\nEmphasis: Ecological and Environmental Informatics GPA: 3.92/4.0\n\n\n\nB.S. in Forest Resources and Environmental Conservation\n\nVirginia Tech\nMajor: Environmental Informatics Minors: Forestry, Green Engineering GPA: 3.77/4.0"
+    "text": "Emphasis: Ecological and Environmental Informatics GPA: 3.92/4.0\nSelected coursework:\n\nAlgorithms in GIS\nApplied mathematical modeling\nInformation Technology for Natural Resource Management\nStatistical Methods for Engineers\nIntro to Programming in Python\nLandscape measurement and modeling\nIntro to land and field measurements\nFreshwater Ecology\nForest Photogrammetry\nDifferential Equations\nClimate Science\nForest Biology and Dendrology\nEcosystem Dynamics\nBiology I/II"
+  },
+  {
+    "objectID": "pages/education.html#m.s.-in-informatics-computing-and-cyber-systems",
+    "href": "pages/education.html#m.s.-in-informatics-computing-and-cyber-systems",
+    "title": "Education",
+    "section": "",
+    "text": "Emphasis: Ecological and Environmental Informatics GPA: 3.92/4.0\nSelected coursework:\n\nAlgorithms in GIS\nApplied mathematical modeling\nInformation Technology for Natural Resource Management\nStatistical Methods for Engineers\nIntro to Programming in Python\nLandscape measurement and modeling\nIntro to land and field measurements\nFreshwater Ecology\nForest Photogrammetry\nDifferential Equations\nClimate Science\nForest Biology and Dendrology\nEcosystem Dynamics\nBiology I/II"
+  },
+  {
+    "objectID": "pages/education.html#b.s.-in-forest-resources-and-environmental-conservation",
+    "href": "pages/education.html#b.s.-in-forest-resources-and-environmental-conservation",
+    "title": "Education",
+    "section": "B.S. in Forest Resources and Environmental Conservation",
+    "text": "B.S. in Forest Resources and Environmental Conservation\n\nVirginia Tech\nMajor: Environmental Informatics Minors: Forestry, Green Engineering GPA: 3.77/4.0\nSelected coursework:"
   }
 ]
