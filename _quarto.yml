@@ -1,0 +1,52 @@
+project:
+  type: website
+
+website:
+  title: "Laura Puckett"
+  repo-url: https://github.com/Laura-Puckett/website
+  repo-actions: [source, issue]
+  page-navigation: true
+  
+  navbar:
+    search: true
+    collapse: true
+    background: primary
+    left:
+     - text: "About"
+        file: index.qmd
+     - sidebar:portfolio
+     - text: "Education"
+     - sidebar:writing
+        file: index.qmd
+    right:
+      - icon: github
+        aria-label: Laura-Puckett/website on GitHub
+        href: https://github.com/Laura-Puckett/website
+
+  sidebar:
+    - id: portfolio
+      title: Portfolio
+      header: "**Portfolio**"
+      contents:
+        - portfolio/writing.qmd
+        - portfolio/exercises.qmd
+        - portfolio/code-exercises.qmd
+      
+    - id: writing
+      title: Writing samples
+      header: "**Writing samples**"
+      contents:
+        - portfolio/neon.html
+        - portfolio/gedi.md
+
+format:
+  html:
+    theme: flatly
+    toc: true
+    highlight-style: github
+    code-block-background: false
+    code-block-border-left: true
+    code-copy: true
+
+execute:
+  freeze: auto
