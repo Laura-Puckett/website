@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://Laura-Puckett.github.io/website/index.html</loc>
-    <lastmod>2023-06-17T15:04:08.893Z</lastmod>
+    <lastmod>2023-06-17T15:12:32.648Z</lastmod>
   </url>
   <url>
-    <loc>https://Laura-Puckett.github.io/website/portfolio/gedi.html</loc>
-    <lastmod>2023-06-17T15:04:09.516Z</lastmod>
+    <loc>https://Laura-Puckett.github.io/website/portfolio/Weather.html</loc>
+    <lastmod>2023-06-17T15:12:33.165Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Laura-Puckett.github.io/website/portfolio/HarvardForest.html</loc>
+    <lastmod>2023-06-17T15:12:33.627Z</lastmod>
   </url>
 </urlset>
