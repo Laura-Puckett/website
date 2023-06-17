@@ -12,12 +12,12 @@ website:
     collapse: true
     background: primary
     left:
-     - text: "About"
+      - text: "About"
         file: index.qmd
      - sidebar:portfolio
-     - text: "Education"
+      - text: "Education"
+        file: pages/education.qmd
      - sidebar:writing
-        file: index.qmd
     right:
       - icon: github
         aria-label: Laura-Puckett/website on GitHub
